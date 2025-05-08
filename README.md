@@ -6,4 +6,13 @@
 - 🚲 I also enjoy rock climbing, music, and cycling.
 
 
-##
+## "Experience"
+- 🐭 Senior Executive of Recursive Integration at the Center for Holistic Scalability and Thought Leadership Enablement. Pioneered avant-garde synergies in cross-platform ideation matrices for decentralized innovation pipelines. Previously served as Principal Consultant of Strategic Redundancy at MetaMetaCorp’s Division of Intentional Vagueness and Quantum Agile Alignment.
+
+
+## Current focus
+- Large scale confusion integration
+- Holistic AI training (bit level)
+- Quantized UI regression analysis
+- Digital Liquification
+- Force push main and pray
