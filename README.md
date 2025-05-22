@@ -13,7 +13,7 @@
 
 ## Current focus 🙏🙏
 - Large scale confusion integration
-- AI Morality training
-- Quantized UI regression analysis
+- AI morality training
+- UI regression analysis
 - Digital Liquification
 - Force push main and pray
