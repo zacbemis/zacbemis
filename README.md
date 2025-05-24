@@ -6,7 +6,7 @@
 
 
 ## Defaults
-- OS: nixos
+- OS: Arch (Arch btw)
 - Editor: vscode, windsurf, nvim
 - Languages: Java, JavaScript, TypeScript, Python, C
 
