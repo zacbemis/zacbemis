@@ -12,7 +12,7 @@
 - Web frameworks: React, Node.js
 - Backend frameworks: Spring Boot
 - Python packages: NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow, Seaborn
-- Databases: MySQL, MongoDB
+- Databases: MySQL, SQLite, PostgreSQL, MongoDB
 - Version Control: Git
 
 ## Current focus 🙏🙏
