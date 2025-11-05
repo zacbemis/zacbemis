@@ -22,3 +22,6 @@
 - UI regression analysis
 - Digital Liquification
 - Force push main and pray
+
+## Favorite Quotes
+- "I'm cringe? Nah I'm him! Get out! Chat was that aura?" - Benjamin Franklin
