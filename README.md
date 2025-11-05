@@ -17,7 +17,6 @@
 - AI morality training
 - UI regression analysis
 - Digital Liquification
-- Competative corporate vocabulary winner
 
 ## Favorite Quotes 🔥🔥
 
