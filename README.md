@@ -4,7 +4,7 @@
 - I just want to do what I'm passionate about.
 - I also enjoy rock climbing, reading, lifting, making music, and cycling.
 
-## Defaults
+## Defaults 💻
 
 - OS: Arch, Hyprland
 - Editor: vscode, windsurf, cursor, nvim
