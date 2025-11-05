@@ -6,14 +6,10 @@
 
 ## Defaults
 
-- OS: Arch
+- OS: Arch, Hyprland
 - Editor: vscode, windsurf, cursor, nvim
 - Languages: Java, JavaScript, TypeScript, Python, C
-- Web frameworks: React, Node.js
-- Backend frameworks: Spring Boot
-- Python packages: NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow, Seaborn
-- Databases: MySQL, SQLite, PostgreSQL, MongoDB
-- Version Control: Git
+- 
 
 ## Current focus 🙏🙏
 
