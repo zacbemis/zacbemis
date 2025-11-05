@@ -8,8 +8,8 @@
 
 - OS: Arch, Hyprland
 - Editor: vscode, windsurf, cursor, nvim
+- Notes: Obsidian
 - Languages: Java, JavaScript, TypeScript, Python, C
-- 
 
 ## Current focus 🙏🙏
 
@@ -19,5 +19,6 @@
 - Digital Liquification
 - Force push main and pray
 
-## Favorite Quotes
+## Favorite Quotes 🔥🔥
+
 - "I'm cringe? Nah I'm him! Get out! Chat was that aura?" - Benjamin Franklin
