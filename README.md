@@ -1,7 +1,7 @@
 ## About Me 👋
 
 - 🌳 I am currently studying Computer Science at California State University Sacramento.
-- 💻 My goal for my career is to develop applications people want to use.
+- 💻 I just want to do what I'm passionate about.
 - 🚲 I also enjoy rock climbing, lifting, making music, and cycling.
 
 ## Defaults
