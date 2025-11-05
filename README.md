@@ -9,7 +9,7 @@
 - OS: Arch, Hyprland
 - Editor: vscode, windsurf, cursor, nvim
 - Notes: Obsidian
-- Languages: Java, JavaScript, TypeScript, Python, C
+- Languages: Java, JavaScript, TypeScript, Python, C, Go
 
 ## Current focus 🙏🙏
 
@@ -17,7 +17,7 @@
 - AI morality training
 - UI regression analysis
 - Digital Liquification
-- Force push main and pray
+- Competative corporate vocabulary winner
 
 ## Favorite Quotes 🔥🔥
 
