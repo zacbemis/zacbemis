@@ -1,8 +1,8 @@
 ## About Me 👋
 
-- I am currently studying Computer Science at California State University Sacramento.
-- I just want to do what I'm passionate about.
-- I also enjoy rock climbing, reading, lifting, making music, and cycling.
+I am a software engineer and computer science student at California State University, Sacramento. 
+Software engineering gives me the outlet to be creative and solve problems in an ever expanding field. 
+I love studying math, physics and philosophy. I also enjoy reading, rock climbing and cycling.
 
 ## Defaults 💻
 
