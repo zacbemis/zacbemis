@@ -7,5 +7,5 @@ I love studying math, physics and philosophy. I also enjoy reading, rock climbin
 ## Defaults 💻
 
 - OS: Arch, Hyprland
-- Editor: VScode, Neovim
+- Editor: VScode, neovim
 - Languages: Python, Java, TypeScript, JavaScript, Go, C
