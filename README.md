@@ -9,4 +9,4 @@ I love studying math, physics and philosophy. I also enjoy reading, rock climbin
 - OS: Arch, Hyprland
 - Editor: vscode, windsurf, cursor, nvim
 - Notes: Obsidian
-- Languages: Java, JavaScript, TypeScript, Python, C, Go
+- Languages: Java, Python, JavaScript, TypeScript, C, Go
