@@ -8,4 +8,4 @@ I love studying philosoph, computer science, math, and physics. I also enjoy rea
 
 - OS: Arch, Hyprland
 - Editor: VScode, neovim
-- Languages: Python, Java, TypeScript, JavaScript, Go, C
+- Languages: Python, Java, TypeScript, JavaScript, C
