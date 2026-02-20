@@ -1,8 +1,10 @@
 ## Hi, I'm Zac 👋
 
-I am a software engineer and computer science student at California State University, Sacramento. 
-Software engineering gives me the outlet to be creative and solve problems in an ever expanding field. 
-I love studying philosoph, computer science, math, and physics. I also enjoy reading, rock climbing and cycling.
+Experience: Java, Python, TypeScript, JavaScript, C
+
+Interests: Linux, Vim, AI software and tooling, UI/UX design, language design, distributed systems, algo trading
+
+Hobbies: Rock climbing, lifting, road biking, reading, learning (computation, physics, philosophy)
 
 ## Defaults 💻
 
