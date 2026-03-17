@@ -9,5 +9,5 @@ Hobbies: Rock climbing, lifting, road biking, reading, learning (computation, ph
 ## Defaults 💻
 
 - OS: Arch, Hyprland
-- Editor: VScode, neovim
+- Editor: VScode, Cursor, neovim
 - Languages: Python, Java, TypeScript, JavaScript, C
