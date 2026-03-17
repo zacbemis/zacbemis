@@ -10,4 +10,4 @@ Hobbies: Rock climbing, lifting, road biking, reading, learning (computation, ph
 
 - OS: Arch, Hyprland
 - Editor: VScode, Cursor, neovim
-- Languages: Python, Java, TypeScript, JavaScript, C
+- Languages: Python, Java, TypeScript, JavaScript, C, Elixir, Go, Rust
