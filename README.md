@@ -1,11 +1,11 @@
-## Hi, I'm Zac 👋
+## hi, i'm Zac 👋
 
-- Main Languages: Java, Python, TypeScript, JavaScript, C
+- main languages: java, python, typescript, javascript, c
 
-- Interests: Linux, Vim, AI software and tooling, UI/UX design, programming language design, distributed systems, algo trading
+- interests: linux, vim, ai, ui/ux, programming languages, distributed systems, algo trading
 
-- Hobbies: Rock climbing, lifting, road biking, reading, computers, physics, philosophy
+- hobbies: rock climbing, lifting, road biking, reading, computers, physics, philosophy
 
-- OS: Arch, Hyprland
+- os: arch, hyprland
 
-- Editor: neovim, cursor, vscode
+- editor: neovim, cursor, vscode
