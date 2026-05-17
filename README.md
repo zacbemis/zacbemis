@@ -1,6 +1,6 @@
 ## Hello, My Name is Zac
 
-[https://zacbemis.com](To find out more about me go to my website.)
+[To find out more about me go to my website.](https://zacbemis.com)
 
 - Main Languages: java, python, typescript, javascript, c
 
