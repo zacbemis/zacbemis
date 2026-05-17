@@ -9,5 +9,6 @@
 - OS: arch, hyprland
 
 - Editor: neovim, cursor, vscode
+---
 
 [To find out more about me go to my website.](https://zacbemis.com)
