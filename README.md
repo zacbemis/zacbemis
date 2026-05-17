@@ -1,4 +1,4 @@
-## hi, i'm Zac 👋
+## Hello, My Name is Zac
 
 - Main Languages: java, python, typescript, javascript, c
 
