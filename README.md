@@ -1,5 +1,7 @@
 ## Hello, My Name is Zac
 
+[https://zacbemis.com](To find out more about me go to my website.)
+
 - Main Languages: java, python, typescript, javascript, c
 
 - Interests: linux, vim, ai, ui/ux, programming languages, distributed systems, algo trading
