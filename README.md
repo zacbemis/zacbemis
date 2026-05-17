@@ -1,7 +1,5 @@
 ## Hello, My Name is Zac
 
-[To find out more about me go to my website.](https://zacbemis.com)
-
 - Main Languages: java, python, typescript, javascript, c
 
 - Interests: linux, vim, ai, ui/ux, programming languages, distributed systems, algo trading
@@ -11,3 +9,5 @@
 - OS: arch, hyprland
 
 - Editor: neovim, cursor, vscode
+
+[To find out more about me go to my website.](https://zacbemis.com)
