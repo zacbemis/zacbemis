@@ -2,7 +2,7 @@
 
 - Main Languages: java, typescript, javascript, python, c, rust
 
-- Interests: linux, vim, ai, ui/ux, programming languages, distributed systems, algo trading
+- Interests: linux, vim, ai, ui/ux, programming languages, distributed systems
 
 - Hobbies: rock climbing, lifting, road biking, reading, computers, physics, philosophy
 
