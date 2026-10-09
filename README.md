@@ -6,8 +6,6 @@
 
 - Hobbies: rock climbing, lifting, road biking, reading, computers, physics, philosophy
 
-- OS: arch, hyprland
-
-- Editor: neovim, cursor, vscode
+- Dev env: arch, hyprland, neovim, pi, cursor, vscode
 
 #### [To find out more about me go to my website.](https://zacbemis.com)
