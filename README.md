@@ -1,6 +1,6 @@
 ## Hello, My Name is Zac
 
-- Main Languages: java, python, typescript, javascript, c
+- Main Languages: java, typescript, javascript, python, c, rust
 
 - Interests: linux, vim, ai, ui/ux, programming languages, distributed systems, algo trading
 
